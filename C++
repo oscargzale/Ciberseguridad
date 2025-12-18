@@ -1,0 +1,6 @@
+Proyecto final del curso de Ciberseguridad.
+
+Descripcion
+Este programa en C++ simula un gestor de contrasenas.
+Permite registrar usuarios y evaluar la fortaleza de las contrasenas
+utilizando reglas basicas de seguridad.
